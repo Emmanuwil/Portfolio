@@ -11,10 +11,23 @@ style
 body{
 background-color: rgb(153, 184, 40);
 }
-style
-h1
-h2
-h3
+h1 {
+    font-size: 16px;
+    color: chocolate;
+    background-color: rgb(4, 247, 226);
+
+}
+h2 {
+    font-size: 16px;
+    color: red;
+    background-color: rgb(6, 235, 223);
+}
+h3 {
+    font-size: 16px;
+    color: rgb(192, 192, 192);
+    background-color: darkturquoise;
+
+}
 h4
 h5
 h6
